@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'fortlomsp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3088ADD231904126AB96D874A25AC361 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3483E786DB494C049CCBA0D0D5288E0E }}
           package: '*.jar'
